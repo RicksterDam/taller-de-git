@@ -1,8 +1,1 @@
 print("hola mundo1 ")
-print("hola mundo1")
-print("hola mundo1")
-print("hola mundo1")
-print("hola mundo1")
-print("hola mundo1")
-print("hola mundo1")
-print("hola zz")
